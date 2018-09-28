@@ -1,0 +1,28 @@
+{
+  "name": "Liri-Node-App",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mdwat90/Liri-Node-App.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mdwat90/Liri-Node-App/issues"
+  },
+  "homepage": "https://github.com/mdwat90/Liri-Node-App#readme",
+  "dependencies": {
+    "ajax-request": "^1.2.3",
+    "bandsintown": "^1.0.1",
+    "console.table": "^0.10.0",
+    "jquery": "^3.3.1",
+    "omdb": "^0.8.0",
+    "request": "^2.88.0"
+  }
+}
